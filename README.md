@@ -1,3 +1,3 @@
 # Securitygame
 
-Game Designed to teach kids about cybersecurity. hello
+Game Designed to teach kids about cybersecurity. 
